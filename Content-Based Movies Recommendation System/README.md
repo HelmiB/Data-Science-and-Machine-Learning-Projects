@@ -2,7 +2,7 @@
 ## Dataset
 Dataset acquired from GroupLens (https://grouplens.org/datasets/movielens/)
 ## Description
-This Mini-Project is a Content-Based recommendation system of movies, it explores users' rating of movies they alreadu watched and suggests movies they will probably like based on their profiles.
+This Mini-Project is a Content-Based recommendation system of movies, it explores users' ratings of movies they already watched and suggests movies they will probably like based on their profiles.
 ## Advantages and Disadvantages of Content-Based Filtering
 
 #### Advantages
