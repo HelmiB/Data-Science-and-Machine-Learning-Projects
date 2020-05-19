@@ -2,7 +2,7 @@
 ## Dataset
 Dataset acquired from GroupLens (https://grouplens.org/datasets/movielens/)
 ## Description
-This Mini-Project is a recommendation system of movies based on Collaborative Filtering, it explores users' rating of movies they alreadu watched and suggests movies they will probably like based on their profiles.
+This Mini-Project is a recommendation system of movies based on Collaborative Filtering, it explores neighbooring users and uses them to suggest movies.
 ## Advantages and Disadvantages of Collaborative Filtering
 
 #### Advantages
